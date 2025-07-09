@@ -1,4 +1,23 @@
+
 # RUGAS ORM Demo
+
+## Screenshots
+
+Below are screenshots of the application in action:
+
+<p align="center">
+  <img src="./screenshots/1.png" alt="Dashboard" width="600" />
+  <br>
+  <img src="./screenshots/2.png" alt="Orders" width="600" />
+  <br>
+  <img src="./screenshots/3.png" alt="Customers" width="600" />
+  <br>
+  <img src="./screenshots/4.png" alt="Products" width="600" />
+  <br>
+  <img src="./screenshots/5.png" alt="Order Details" width="600" />
+  <br>
+  <img src="./screenshots/6.png" alt="Other" width="600" />
+</p>
 
 This project is a full-stack demo application for RUGAS company, created as an assignment for a Full Stack Internship. Here, ORM stands for **Order Management**. The app consists of a React frontend and a Node.js/Express backend, demonstrating basic CRUD operations for customers, orders, and products.
 
